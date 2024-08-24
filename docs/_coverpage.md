@@ -9,4 +9,4 @@
 - 快点进入主页吧您
 
 [我的Github账户](https://github.com/SSSomSo)
-[进入主页](/)
+[进入主页](/#/?id=hi)
