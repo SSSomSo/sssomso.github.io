@@ -1,4 +1,4 @@
 - [主页](/ "“集合”")
-- [简介主页](/description/ "只是个主页而已")
+- [简介主页](/description/README.md "只是个主页而已")
 - [沃玛：重生简介](/description/24-8-24-wr_description.md "好耶！")
 - [一键安装原神器简介](/description/24-8-24-ocig_description.md "原来你也玩○神")

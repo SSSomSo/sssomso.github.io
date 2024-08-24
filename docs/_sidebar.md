@@ -1,2 +1,2 @@
 - [主页](/)  
-- [工具/模组简介](/description/24-8-24-wr_description.md)
+- [工具/模组简介](/description/README.md)
