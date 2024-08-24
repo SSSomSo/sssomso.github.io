@@ -1,2 +1,2 @@
 - [主页](/)  
-- [工具/模组简介](/description/README.md)
+- [工具/模组简介](/description/)
