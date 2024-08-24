@@ -1,1 +1,1 @@
-* [主页](/docs/README.md)
+* [主页](/README.md)
