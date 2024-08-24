@@ -1,2 +1,2 @@
-- [主页](/)  
-- [工具/模组简介](/description/)
+- [主页](/ "“集合”")  
+- [工具/模组简介](/description/ "Just A Description")
