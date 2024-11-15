@@ -1,2 +1,3 @@
 - [主页](/ "Som的github pages主页")  
 - [工具/模组简介](/description/ "Just A Description")
+- [被我开盒的人](/description/openbox "到底谁是没有浮木的√呢？")
