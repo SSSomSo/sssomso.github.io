@@ -2,10 +2,10 @@
 
 # Som的Github Pages个人主页
 
-> 就算我是老实人，但√急也会跳墙。
+> 山山山姆山也是五字神人
 
-- 没啥可写的
-- 我也懒得写
+- EA=💩
+- star plz
 - 快点进入主页吧您
 
 [我的Github账户](https://github.com/SSSomSo)
