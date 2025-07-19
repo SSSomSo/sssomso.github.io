@@ -1,7 +1,6 @@
 <!-- _coverpage.md -->
 
 # Som的GithubPages个人主页和关于服务器的东西
-# dtmc.fun正常访问会指向本页面
 
 > 山山山姆山也是五字神人
 
